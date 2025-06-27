@@ -2,5 +2,5 @@
 
 $testinput = (string)readline('Test:');
 
-echo "Hello Azure!";
+echo "Hello Azure! \n";
 echo 'Test input'.(string)$testinput;
